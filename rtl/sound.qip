@@ -1,0 +1,2 @@
+set_global_assignment -name VHDL_FILE rtl/YM2149/ym2149.vhd
+set_global_assignment -name VHDL_FILE rtl/YM2149/vol_table.vhd
