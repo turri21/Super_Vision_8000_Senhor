@@ -205,6 +205,8 @@ localparam CONF_STR = {
 	"-;",
 	"FC1,BIN,Load Cartridge;",
 	"-;",
+	"O[4],Swap Controllers, No, Yes;",
+	"-;",
 	"O[3:2],Aspect ratio,Original,Full Screen,[ARC1],[ARC2];",
 	"-;",
 	"R[0],Reset;",
@@ -327,8 +329,8 @@ SuperVision8000 console
 	.cpu_ram_d_i(ram_di),
 	.cpu_ram_d_o(ram_do),
 
-	.joy0(joy0),
-	.joy1(joy1),
+	.joy0(status[4]? joy1 : joy0),
+	.joy1(status[4]? joy0 : joy1),
 	.ps2_key(ps2_key),
 
 
