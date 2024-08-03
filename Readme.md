@@ -3,7 +3,6 @@
 
 Tested: Working Video 720p, 1080p & Sound
 
-
     <img style="width: 400px;" src="img/BandaiSuperVision8000.jpg" title="Image courtesy of Wikipedia">
 </p>
 
