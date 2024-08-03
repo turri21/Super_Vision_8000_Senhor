@@ -1,8 +1,9 @@
+<p align="center">
 -=(Super_Vision_8000_Senhor notes)=-
 
 Tested: Working Video 720p, 1080p & Sound
 
-<p align="center">
+
     <img style="width: 400px;" src="img/BandaiSuperVision8000.jpg" title="Image courtesy of Wikipedia">
 </p>
 
