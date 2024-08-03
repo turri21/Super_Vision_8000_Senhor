@@ -1,9 +1,9 @@
 <p align="center">
--=(Super_Vision_8000_Senhor notes)=-
-Tested: Working Video 720p, 1080p & Sound
-
     <img style="width: 400px;" src="img/BandaiSuperVision8000.jpg" title="Image courtesy of Wikipedia">
 </p>
+-=(Super_Vision_8000_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
 
 # [Bandai Super Vision 8000](https://wikipedia.org/wiki/Bandai_Super_Vision_8000) for [MiSTer](https://mister-devel.github.io/MkDocs_MiSTer/)
 This is an FPGA implementation of the Super Vision 8000 by Bandai for the MiSTer FPGA platform.
